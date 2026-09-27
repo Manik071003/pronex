@@ -1,0 +1,1 @@
+enum BaseType { nonReactive, reactive }
